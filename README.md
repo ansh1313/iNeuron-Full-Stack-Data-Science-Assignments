@@ -1,2 +1,6 @@
-# iNeuron-Full-Stack-Data-Science-Assignments
-In this repository, I will be posting all the ineuron assignments.
+# iNeuron Full Stack Data Science:
+
+### 1. Python Assignments
+- [Python Basic ***(50)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Basic%20Assignment)
+
+   
